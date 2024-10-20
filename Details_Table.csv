@@ -1,9 +1,9 @@
 Detail_ID,Involvement,Level ,Total_Applicants
 D1,Full-time,Mid-Senior level,54
-D2,Full-time ,Entry level,59 
-D3,Full-time ,Entry level,17 
-D4,Full-time,,124 
-D5,Full-time,Associate,58 
+D2,Full-time ,Entry level,59Â 
+D3,Full-timeÂ ,Entry level,17Â 
+D4,Full-time,,124Â 
+D5,Full-time,Associate,58Â 
 D6,Full-time,Associate,51
 D7,Full-time,Associate,31
 D8,Full-time,Entry level,9
@@ -12,15 +12,15 @@ D10,Full-time,Associate,200
 D11,Full-time,,70
 D12,Full-time,Associate,7
 D13,Full-time,Entry level,200
-D14,Full-time ,Entry level,40
-D15,Full-time ,,12
-D16,Full-time ,Entry level,140
-D17,Full-time ,Entry level,171
+D14,Full-timeÂ ,Entry level,40
+D15,Full-timeÂ ,,12
+D16,Full-timeÂ ,Entry level,140
+D17,Full-timeÂ ,Entry level,171
 D18,Full-time,Associate,10
 D19,Full-time,,138
-D20,Full-time ,Entry level,31
-D21,Full-time ,Entry level,67
-D22,Full-time ,Associate,200
+D20,Full-timeÂ ,Entry level,31
+D21,Full-timeÂ ,Entry level,67
+D22,Full-timeÂ ,Associate,200
 D23,Full-time,,50
 D24,Full-time,Mid-Senior level,1
 D25,Full-time,Mid-Senior level,4
@@ -31,16 +31,16 @@ D29,Full-time,Mid-Senior level,5
 D30,Full-time,Mid-Senior level,200
 D31,Full-time,Mid-Senior level,32
 D32,Full-time ,Associate,69
-D33,Full-time ,Entry level,159
-D34,Full-time ,,84
+D33,Full-timeÂ ,Entry level,159
+D34,Full-timeÂ ,,84
 D35,Full-time ,Associate,33
 D36,Full-time,,84
 D37,Full-time,,3
-D38,Full-time ,Entry level,25
+D38,Full-timeÂ ,Entry level,25
 D39,Full-time,,45
 D40,Full-time,,200
-D41,Full-time , Mid-Senior level,200
-D42,Full-time,,7 
+D41,Full-time ,Â Mid-Senior level,200
+D42,Full-time,,7Â 
 D43,Full-time,Full-time,200
 D44,Full-time,Mid-Senior level,70
 D45,Full-time,,177
@@ -65,8 +65,8 @@ D63,Full-time,Entry level,85
 D64,Full-time,Entry level,78
 D65,Full-time,,163
 D66,Full-time,,37
-D67,Full-time ,Associate,27
-D68,Full-time ,Associate,25
+D67,Full-timeÂ ,Associate,27
+D68,Full-timeÂ ,Associate,25
 D69,Full-time,Associate,76
 D70,Full-time,,86
 D71,Full-time,Entry level,137
@@ -74,9 +74,9 @@ D72,Full-time,,8
 D73,Full-time,,25
 D74,Full-time,Mid-Senior level,55
 D75,Full-time,Executive,15
-D76,Full-time ,Entry level,200
+D76,Full-timeÂ ,Entry level,200
 D77,Full-time,Mid-Senior level,136
-D78,Full-time ,Entry level,73
+D78,Full-timeÂ ,Entry level,73
 D79,Intenship,Entry-Level,5
 D80,Intenship,Entry-Level,10
 D81,Full-time,Entry-Level,15
@@ -196,8 +196,8 @@ D194,Full-time,,115
 D195,Full-time,,17
 D196,Full-time,,52
 D197,Full-time ,Associate,37
-D198,Full-time, Entry level,108
-D199,Full-time ,Mid-Senior ,45
+D198,Full-time,Â Entry level,108
+D199,Full-timeÂ ,Mid-Senior ,45
 D200,Full-time,Mid-Senior ,85
 D201,Full-time,,118
 D202,Full-time,Mid-Senior,96
@@ -210,16 +210,16 @@ D208,Full-time,Mid-Senior ,57
 D209,Full-time,Mid-Senior ,9
 D210,Full-time,,51
 D211,Full-time,,77
-D212,Full-time,Entry ,200
+D212,Full-time,EntryÂ ,200
 D213,Full-time,Mid-Senior ,200
 D214,Full-time,Mid-Senior ,63
-D215,Full-time,Entry ,103
+D215,Full-time,EntryÂ ,103
 D216,Full-time,Associate,173
 D217,Full-time,,11
 D218,Full-time,Mid-Senior ,30
 D219,Full-time,Associate,23
-D220,Full-time, Mid-Senior,200
-D221,Full-time, Mid-Senior,125
+D220,Full-time,Â Mid-Senior,200
+D221,Full-time,Â Mid-Senior,125
 D222,Full-time,Associate,35
 D223,Full-time,Director,87
 D224,Full-time,Mid-Senior,51
@@ -227,11 +227,11 @@ D225,Full-time,Mid-Senior,200
 D226,Full-time,,18
 D227,Full-time,,89
 D228,Full-time,Mid-Senior,133
-D229,Full-time,Entry ,23
-D230,Full-time,Entry ,27
-D231,Full-time,Entry ,26
-D232,Full-time,Entry ,66
-D233,Full-time,Entry ,2
+D229,Full-time,EntryÂ ,23
+D230,Full-time,EntryÂ ,27
+D231,Full-time,EntryÂ ,26
+D232,Full-time,EntryÂ ,66
+D233,Full-time,EntryÂ ,2
 D234,Part-time,,32
 D235,Internship,Internship,56
 D236,Part-time,Mid-Senior,103
@@ -242,11 +242,11 @@ D240,Part-time,,6
 D241,Full-time,Enrty,108
 D242,Full-time,Enrty,3
 D243,Full-time,Enrty,30
-D244,Full-time, Associate,45
-D245,Full-time, Associate,0
-D246,Full-time,Entry ,1
-D247,Full-time, Associate,9
-D248,Full-time,Entry ,5
+D244,Full-time,Â Associate,45
+D245,Full-time,Â Associate,0
+D246,Full-time,EntryÂ ,1
+D247,Full-time,Â Associate,9
+D248,Full-time,EntryÂ ,5
 D249,Full-time,Mid-Senior,29
 D250,Full-time, ,2
 D251,Full-time,,48
