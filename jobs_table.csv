@@ -1,16 +1,16 @@
 Job_ID,Job_Title,Company_ID,Location,Detail_ID
 J1,Alyst/Sr. Alyst-Digital Product Alytics (SQL/Navisualization Tools),C1,"Gurgaon, Harya,India",D1
-J10,Associate Data Alyst,C7,"Hyderabad, Telangana,India ",D10
+J10,Associate Data Alyst,C7,"Hyderabad, Telangana,IndiaÂ ",D10
 J100,"Alyst, Master Data",C85,"Bengaluru, Kartaka,India",D71
 J101,Application Architect: AWS Cloud,C86,"Pune, Maharashtra,India",D72
 J102,Software Quality Senior Engineer,C87,"Bengaluru, Kartaka,India",D73
 J103,Data Alyst,C28,"Mumbai, Maharashtra,India",D13
 J104,Solutions Architect,C88,"Noida, Uttar Pradesh,India",D44
 J105,Alyst - Core Alytics - Power BI,C89,"Thane, Maharashtra,India",D43
-J106,Google Alytics,C90,"Bengaluru, Kartaka,India ",D74
+J106,Google Alytics,C90,"Bengaluru, Kartaka,IndiaÂ ",D74
 J107,Data Alyst,C91,"Ahmedabad, Gujarat,India",D75
 J108,Data Alyst,C92,"Bengaluru, Kartaka,India",D51
-J11,Business Alyst,C8,"Hyderabad, Telangana,India ",D10
+J11,Business Alyst,C8,"Hyderabad, Telangana,IndiaÂ ",D10
 J110,Associate Data Alyst,C22,"Bengaluru, Kartaka,India",D40
 J112,Data Alyst,C95,"Mumbai, Maharashtra,India",D13
 J114,Content Intern,C97,"Gurugram, Harya,India",D79
@@ -177,7 +177,7 @@ J266,Software Engineer - Testing,C219,"Hyderabad, Telangana,India",D183
 J267,Senior Executive_Engineer_Linux_Pune,C6,"Pune, Maharashtra,India",D184
 J268,Software Developer- Data & Alytics,C223,"Pune, Maharashtra,India",D185
 J269,Structural Engineer l,C224,"Mumbai, Maharashtra,India",D186
-J27,Junior Alytics Engineer - Associate 2,C20,"Mumbai, Maharashtra,India ",D26
+J27,Junior Alytics Engineer - Associate 2,C20,"Mumbai, Maharashtra,IndiaÂ ",D26
 J270,Software Engineer 2,C8,"Hyderabad, Telangana,India",D187
 J271,Software Engineer 2,C8,"Bengaluru, Kartaka,India",D188
 J272,Software Engineer 2,C8,"Hyderabad, Telangana,India",D13
@@ -187,69 +187,69 @@ J275,Support Engineer Internship Opportunity for University Graduate,C8,"Daman a
 J276,Support Engineer Internship Opportunity for University Graduate,C8,"Delhi, Delhi,India",D192
 J277,SAP MM Ha Consultant,C225,"Delhi, Delhi,India",D193
 J278,SAP MM Ha Consultant,C225,"Mumbai, Maharashtra,India",D194
-J279,Package Consultant – SAP SD VC,C225,"Mumbai, Maharashtra,India",D28
-J28,Data Alyst ,C21,Greater Kolkata Area,D27
-J280,Package Consultant –SAP SD VC,C225,"Delhi, Delhi,India",D37
+J279,Package Consultant Â– SAP SD VC,C225,"Mumbai, Maharashtra,India",D28
+J28,Data AlystÂ ,C21,Greater Kolkata Area,D27
+J280,Package Consultant Â–SAP SD VC,C225,"Delhi, Delhi,India",D37
 J281,CAO Control Programs- Associate,C226,"Mumbai, Maharashtra,India",D58
 J282,Infrastructure Development,C226,"Hyderabad, Telangana,India",D195
 J283,Quality Assurance_Disclosure of Interest,C226,"Hyderabad, Telangana,India",D196
 J284,Talent Acquisition Lead,C227,"Bengaluru North, Kartaka,India",D197
 J285,Lead - Talent Acquisition,C228,"Bengaluru, Kartaka,India",D40
-J288,Infrastructure Architect,C231,"Bengaluru, Kartaka,India ",D200
-J289,Site Reliability Engineer 3,C232,"Bengaluru, Kartaka,India ",D201
+J288,Infrastructure Architect,C231,"Bengaluru, Kartaka,IndiaÂ ",D200
+J289,Site Reliability Engineer 3,C232,"Bengaluru, Kartaka,IndiaÂ ",D201
 J29,Associate Business Alyst,C22,"Bengaluru, Kartaka,India",D28
-J290,Test Alyst (Retail Banking),C233,"Bengaluru, Kartaka,India ",D202
-J291,Team Lead,C234,"Bengaluru, Kartaka,India ",D203
-J292,Principal Software Engineer,C235,"Bengaluru, Kartaka,India ",D204
-J293,Senior Site Reliability Engineer,C236,"Bengaluru, Kartaka,India ",D205
-J294,Technical Architect,C237,"Bengaluru, Kartaka,India ",D206
-J295,Senior Database Solutions Architect,C238,"Bengaluru, Kartaka,India ",D55
-J296,Full Stack Developer,C239,"Bengaluru, Kartaka,India ",D207
+J290,Test Alyst (Retail Banking),C233,"Bengaluru, Kartaka,IndiaÂ ",D202
+J291,Team Lead,C234,"Bengaluru, Kartaka,IndiaÂ ",D203
+J292,Principal Software Engineer,C235,"Bengaluru, Kartaka,IndiaÂ ",D204
+J293,Senior Site Reliability Engineer,C236,"Bengaluru, Kartaka,IndiaÂ ",D205
+J294,Technical Architect,C237,"Bengaluru, Kartaka,IndiaÂ ",D206
+J295,Senior Database Solutions Architect,C238,"Bengaluru, Kartaka,IndiaÂ ",D55
+J296,Full Stack Developer,C239,"Bengaluru, Kartaka,IndiaÂ ",D207
 J297,Quality Magement Representative,C240,"Dodballapura, Kartaka,India",D160
-J298,Technical system Adminstrator,C241,"Bengaluru, Kartaka,India ",D208
-J299,Alytics Engineer,C242,"Bengaluru, Kartaka,India ",D209
-J300,Database Administrator,C243,"Bengaluru, Kartaka,India ",D210
-J301,Admissions Counselor,C244,"Bengaluru, Kartaka,India ",D211
-J303,MIM (Major Incident Magement),C246,"Bengaluru, Kartaka,India ",D10
-J304,Mechanical Drafter,C247,"Bengaluru, Kartaka,India ",D213
-J305,Hardware Design Engineer,C248,"Bengaluru, Kartaka,India ",D214
-J307,Maintence Executive,C250,"Bengaluru, Kartaka,India ",D10
-J308,Senior Engineer,C251,"Bengaluru, Kartaka,India ",D216
-J309,EDA Tool Developer,C86,"Bengaluru, Kartaka,India ",D217
+J298,Technical system Adminstrator,C241,"Bengaluru, Kartaka,IndiaÂ ",D208
+J299,Alytics Engineer,C242,"Bengaluru, Kartaka,IndiaÂ ",D209
+J300,Database Administrator,C243,"Bengaluru, Kartaka,IndiaÂ ",D210
+J301,Admissions Counselor,C244,"Bengaluru, Kartaka,IndiaÂ ",D211
+J303,MIM (Major Incident Magement),C246,"Bengaluru, Kartaka,IndiaÂ ",D10
+J304,Mechanical Drafter,C247,"Bengaluru, Kartaka,IndiaÂ ",D213
+J305,Hardware Design Engineer,C248,"Bengaluru, Kartaka,IndiaÂ ",D214
+J307,Maintence Executive,C250,"Bengaluru, Kartaka,IndiaÂ ",D10
+J308,Senior Engineer,C251,"Bengaluru, Kartaka,IndiaÂ ",D216
+J309,EDA Tool Developer,C86,"Bengaluru, Kartaka,IndiaÂ ",D217
 J31,Senior Alyst,C24,"Pune, Maharashtra,India",D18
-J310,High Power Electronics Integration Senior Mager,C252,"Bengaluru, Kartaka,India ",D218
-J311,Staff Software Engineer,C253,"Bengaluru, Kartaka,India ",D219
-J315,Solution Architect,C257,"Bengaluru, Kartaka,India ",D222
-J316,Lean Product Owner,C258,"Bengaluru, Kartaka,India ",D213
-J317,SDN Cloud Consultant / Architect,C66,"Bengaluru, Kartaka,India ",D223
-J318,Mager - Piping,C259,"Bengaluru, Kartaka,India ",D224
-J319,Safety Case Coorditor,C260,"Bengaluru, Kartaka,India ",D220
+J310,High Power Electronics Integration Senior Mager,C252,"Bengaluru, Kartaka,IndiaÂ ",D218
+J311,Staff Software Engineer,C253,"Bengaluru, Kartaka,IndiaÂ ",D219
+J315,Solution Architect,C257,"Bengaluru, Kartaka,IndiaÂ ",D222
+J316,Lean Product Owner,C258,"Bengaluru, Kartaka,IndiaÂ ",D213
+J317,SDN Cloud Consultant / Architect,C66,"Bengaluru, Kartaka,IndiaÂ ",D223
+J318,Mager - Piping,C259,"Bengaluru, Kartaka,IndiaÂ ",D224
+J319,Safety Case Coorditor,C260,"Bengaluru, Kartaka,IndiaÂ ",D220
 J32,Senior Data Alyst,C25,"Bengaluru, Kartaka,India",D29
-J321,CNC Manufacturing Design Engineer,C262,"Bengaluru, Kartaka,India ",D40
-J322,Content Creator,C263,"Bengaluru, Kartaka,India ",D226
-J323,Interior Designer,C264,"Bengaluru, Kartaka,India ",D40
-J324,Principal Software Engineer,C235,"Bengaluru, Kartaka,India ",D204
-J325,Procurement Specialist,C265,"Bengaluru, Kartaka,India ",D40
-J326,"SoC Physical Design Engineer, Google Cloud",C266,"Bengaluru, Kartaka,India ",D227
-J327,Test Alyst (Cards & Payments),C233,"Chennai, Tamil nadu,India ",D228
+J321,CNC Manufacturing Design Engineer,C262,"Bengaluru, Kartaka,IndiaÂ ",D40
+J322,Content Creator,C263,"Bengaluru, Kartaka,IndiaÂ ",D226
+J323,Interior Designer,C264,"Bengaluru, Kartaka,IndiaÂ ",D40
+J324,Principal Software Engineer,C235,"Bengaluru, Kartaka,IndiaÂ ",D204
+J325,Procurement Specialist,C265,"Bengaluru, Kartaka,IndiaÂ ",D40
+J326,"SoC Physical Design Engineer, Google Cloud",C266,"Bengaluru, Kartaka,IndiaÂ ",D227
+J327,Test Alyst (Cards & Payments),C233,"Chennai, Tamil nadu,IndiaÂ ",D228
 J33,Data Alyst,C26,"Bengaluru, Kartaka,India",D30
-J333,Lead System Engineer - Windows,C271,"Chennai, Tamil nadu,India ",D234
-J334,Hiring Interns across functions,C272,"Chennai, Tamil nadu,India ",D235
-J335,Network Engineer,C273,"Chennai, Tamil nadu,India ",D236
-J336,Part Time LIC-AGENCY ,C274,"Chennai, Tamil nadu,India ",D129
-J337,Operations And ERP Consulting,C275,"Chennai, Tamil nadu,India ",D237
-J338,Summer Internship - Sales,C276,"Chennai, Tamil nadu,India ",D238
-J339,Capital Market (Fince) ,C277,"Chennai, Tamil nadu,India ",D239
+J333,Lead System Engineer - Windows,C271,"Chennai, Tamil nadu,IndiaÂ ",D234
+J334,Hiring Interns across functions,C272,"Chennai, Tamil nadu,IndiaÂ ",D235
+J335,Network Engineer,C273,"Chennai, Tamil nadu,IndiaÂ ",D236
+J336,Part Time LIC-AGENCYÂ ,C274,"Chennai, Tamil nadu,IndiaÂ ",D129
+J337,Operations And ERP Consulting,C275,"Chennai, Tamil nadu,IndiaÂ ",D237
+J338,Summer Internship - Sales,C276,"Chennai, Tamil nadu,IndiaÂ ",D238
+J339,Capital Market (Fince)Â ,C277,"Chennai, Tamil nadu,IndiaÂ ",D239
 J34,Data Alyst,C27,"Bengaluru, Kartaka,India",D31
-J340,Ops Support Assistant,C56,"Chennai, Tamil nadu,India ",D240
-J341,Assistant Fince Controller,C278,"Chennai, Tamil nadu,India ",D241
-J342,COBOL Developer,C279,"Chennai, Tamil nadu,India ",D242
-J343,Data Entry Operator,C280,"Chennai, Tamil nadu,India ",D243
-J348,Application Database Administrator: RDBMS,C86,"Chennai, Tamil nadu,India ",D37
+J340,Ops Support Assistant,C56,"Chennai, Tamil nadu,IndiaÂ ",D240
+J341,Assistant Fince Controller,C278,"Chennai, Tamil nadu,IndiaÂ ",D241
+J342,COBOL Developer,C279,"Chennai, Tamil nadu,IndiaÂ ",D242
+J343,Data Entry Operator,C280,"Chennai, Tamil nadu,IndiaÂ ",D243
+J348,Application Database Administrator: RDBMS,C86,"Chennai, Tamil nadu,IndiaÂ ",D37
 J35,Senior Alyst,C28,"Bengaluru, Kartaka,India",D32
-J351,Project Mager,C24,"Chennai, Tamil nadu,India ",D249
-J352,Database Administrator,C60,"Chennai, Tamil nadu,India ",D250
-J353,3D Designer,C287,"Chennai, Tamil nadu,India ",D251
+J351,Project Mager,C24,"Chennai, Tamil nadu,IndiaÂ ",D249
+J352,Database Administrator,C60,"Chennai, Tamil nadu,IndiaÂ ",D250
+J353,3D Designer,C287,"Chennai, Tamil nadu,IndiaÂ ",D251
 J38,PRODUCT PRICING ALYST I,C25,"Bengaluru, Kartaka,India",D35
 J39,Growth Alyst,C9,"Bengaluru, Kartaka,India",D34
 J40,Business Alyst,C22,"Bengaluru, Kartaka,India",D37
@@ -260,8 +260,8 @@ J47,Business Insights Alyst (Waymo),C34,"Gurgaon, Harya,India",D43
 J48,Alyst/Data Alytics,C35,"Hyderabad, Telangana,India",D13
 J49,SC Master Data Alyst,C36,"Gurgaon, Harya,India",D44
 J50,Senior Engineer - Production,C37,"Tiruvallur, Tamil du,India",D45
-J51,Data Alyst,C38,"Mumbai, Maharashtra,India ",D46
-J52,Business Alyst,C39,"Mumbai, Maharashtra,India ",D40
+J51,Data Alyst,C38,"Mumbai, Maharashtra,IndiaÂ ",D46
+J52,Business Alyst,C39,"Mumbai, Maharashtra,IndiaÂ ",D40
 J53,Data Alyst - II,C40,"Delhi, Delhi,India",D13
 J54,Data Governce Lead,C41,"Bengaluru, Kartaka,India",D47
 J55,Data Alyst,C42,"Surat, Gujarat,India",D40
@@ -269,18 +269,18 @@ J56,Advanced Data Engineer,C43,"Bengaluru, Kartaka,India",D6
 J57,Business Alyst,C44,"Jaipur, Rajasthan,India",D30
 J58,Business Alyst,C45,"Bangalore Urban, Kartaka,India",D10
 J59,People Data Alyst,C46,"Bengaluru, Kartaka,India",D13
-J6,Alyst,C5,"Hyderabad, Telangana,India ",D6
+J6,Alyst,C5,"Hyderabad, Telangana,IndiaÂ ",D6
 J60,Excel Forecasting,C47,"Noida, Uttar Pradesh,India",D30
 J61,Data Alyst | WFH,C21,Greater Kolkata Area,D48
 J62,Business Alyst,C48,"Pune, Maharashtra,India",D13
 J63,Project Engineer,C49,"Gurgaon, Harya,India",D30
 J64,Data Alyst,C50,"Bangalore Urban, Kartaka,India",D49
 J65,Mager- Process Engineering,C51,"nagpur, Maharashtra,India",D50
-J66,Industrial Engineer,C52,"Chennai, Tamil nadu,India ",D51
+J66,Industrial Engineer,C52,"Chennai, Tamil nadu,IndiaÂ ",D51
 J67,Data Alyst,C53,"Noida, Uttar Pradesh,India",D13
 J68,Data Alyst,C11,"Noida, Uttar Pradesh,India",D13
-J69,Planning - Business Alyst,C54,"Mumbai, Maharashtra,India ",D10
-J7,Alyst,C5,"Hyderabad, Telangana,India ",D7
+J69,Planning - Business Alyst,C54,"Mumbai, Maharashtra,IndiaÂ ",D10
+J7,Alyst,C5,"Hyderabad, Telangana,IndiaÂ ",D7
 J70,Data Alyst - 08,C55,"Pune, Maharashtra,India",D40
 J71,Business Alytics Alyst,C56,"Pune, Maharashtra,India",D40
 J72,Data Alyst,C57,"Gurgaon, Harya,India",D52
@@ -289,24 +289,24 @@ J74,"Data Alyst, 2",C59,"Bengaluru, Kartaka,India",D54
 J75,P1-Lead Alyst - BI and Alytics_COA,C60,"Gurgaon, Harya,India",D55
 J76,"Alyst, Data Magement & Quantitative Alysis",C61,"Pune, Maharashtra,India",D56
 J77,Item Data Alyst,C62,"Bengaluru, Kartaka,India",D13
-J78,Associate Data Alyst,C63,"Bengaluru, Kartaka,India ",D40
+J78,Associate Data Alyst,C63,"Bengaluru, Kartaka,IndiaÂ ",D40
 J79,Business Alyst (Alytics),C64,"Mumbai, Maharashtra,India",D30
 J8,Tableau Data Platform Engineer,C2,"Pune, Maharashtra,India",D8
-J80,Data Mager,C65,India ,D10
+J80,Data Mager,C65,IndiaÂ ,D10
 J81,SDN Cloud Consultant / Architect,C66,"Bengaluru, Kartaka,India",D57
 J82,Manufacturing Operations Mager,C67,"Bengaluru, Kartaka,India",D40
 J83,"Alyst, Data Science & Alytics",C68,"Pune, Maharashtra,India",D40
-J84,Business Alyst,C69,"Bengaluru, Kartaka,India ",D40
+J84,Business Alyst,C69,"Bengaluru, Kartaka,IndiaÂ ",D40
 J85,"Alyst, SerNavices Business Intelligence",C70,"Gurgaon, Harya,India",D58
 J86,Data Science Mager/Senior Mager,C71,"Hyderabad, Telangana,India",D59
 J87,"Alyst/Associate, Developer Alytics & Data Science, (Sql/Python/Tableau) Global Trading",C72,"Gurgaon, Harya,India",D60
 J88,Business Alyst,C73,"Bangalore Urban, Kartaka,India",D61
 J89,Learning Operations - Alyst,C74,"Hyderabad, Telangana,India",D62
 J9,Alyst,C6,"Bengaluru, Kartaka,India",D9
-J90,Engineering Mager,C75,India ,D30
-J91,Site Process Engineer,C76,"Chennai, Tamil nadu,India ",D63
+J90,Engineering Mager,C75,IndiaÂ ,D30
+J91,Site Process Engineer,C76,"Chennai, Tamil nadu,IndiaÂ ",D63
 J92,"Associate Content Specialist, ESG Data Solutions",C77,"Hyderabad, Telangana,India",D64
 J93,Business Alyst,C78,"Bangalore Urban district, Kartaka,India",D65
-J94,Software Engnieer-Data Engineer,C79,"Bengaluru, Kartaka,India Hybrid",D66
+J94,Software Engnieer-Data Engineer,C79,"Bengaluru, Kartaka,IndiaÂ Hybrid",D66
 J98,Automation Test Engineer [T500-4723],C83,"Gurugram, Harya,India",D69
 J99,Experienced Data Engineer,C84,"Bengaluru, Kartaka,India",D70
